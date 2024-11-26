@@ -78,6 +78,8 @@ RADIO FREQUENCY (RF)
 
 - To send WIRELESS SIGNALS, the SENDER applies an ALTERNATING CURRENT to an antenna
     - This creates ELECTROMAGNETIC WAVES which propagate out as WAVES
+    - Even mobile phones have antennas. They are invisible because they are built into the phone.
+    - So basically, the device or AP emits an alternating current to send a signal. This signal is emitted in the form of electromagnetic waves.
 - ELECTROMAGENETIC WAVES can be measured in multiple ways - for example AMPLITUDE and FREQUENCY
 - AMPLITUDE is the MAXIMUM STRENGTH of the ELECTRIC and MAGNETIC FIELDS
 
